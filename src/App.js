@@ -3,7 +3,7 @@ import axios from 'axios';
 import Select from 'react-select';
 import './App.css';
 
-const API_URL = 'https://restapi-wzao.onrender.com';
+const API_URL = 'https://restapi-wzao.onrender.com/bfhl';
 
 function App() {
   const [input, setInput] = useState('');
